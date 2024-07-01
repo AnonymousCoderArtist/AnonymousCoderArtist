@@ -1,8 +1,8 @@
 
-<h1 align="left">Hi 👋! My name is Divyansh Majhi and I'm a frontend/backend developer and a professional python programmer from India</h1>
+<h1 align="left">Hi 👋! My name is Anonymous Coder/Artist and I'm a frontend/backend developer and a professional python programmer from India</h1>
 
 # 💫 About Me:
-👯Hello there. I am Divyansh Majhi a frontend/backend developer and a professional python programmer from India. :) 🤝
+👯Hello there. I am  Anonymous Coder/Artist a frontend/backend developer and a professional python programmer from India. :) 🤝
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/20/e0/83/20e0839cefb31bc03e058be16bacc26e.gif"  />
 <br><br><br>
