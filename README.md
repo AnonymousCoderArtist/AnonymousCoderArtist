@@ -27,7 +27,7 @@
 
 <td width="55%" valign="top">
 
-```console
+```bash
 ┌──(anonymous㉿lokesh)-[~/introduction]
 └─$ whoami
 
