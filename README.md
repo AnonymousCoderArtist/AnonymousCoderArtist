@@ -27,7 +27,7 @@
 
 <td width="55%" valign="top">
 
-```bash
+```python
 ┌──(anonymous㉿lokesh)-[~/introduction]
 └─$ whoami
 
