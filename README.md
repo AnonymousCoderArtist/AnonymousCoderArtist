@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://github.com/AnonymousCoderArtist/AnonymousCoderArtist/blob/output/github-snake-dark.svg"/>
 
 </div>
 
